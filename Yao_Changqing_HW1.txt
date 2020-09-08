@@ -1,0 +1,17 @@
+ec2-user:~/environment/hw-ruby-intro/spec (master) $ rspec part1_spec.rb
+............
+
+Finished in 0.01478 seconds (files took 0.11458 seconds to load)
+12 examples, 0 failures
+
+ec2-user:~/environment/hw-ruby-intro/spec (master) $ rspec part2_spec.rb                                                                                                                                                       
+..........
+
+Finished in 0.01129 seconds (files took 0.08694 seconds to load)
+10 examples, 0 failures
+
+ec2-user:~/environment/hw-ruby-intro/spec (master) $ rspec part3_spec.rb                                                                                                                                                       
+............
+
+Finished in 0.01236 seconds (files took 0.08867 seconds to load)
+12 examples, 0 failures
